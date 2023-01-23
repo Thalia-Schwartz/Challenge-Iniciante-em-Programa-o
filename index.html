@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Decodificador</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<header>
+		<img src="Logo.svg" alt="Logo da Alura">
+	</header>
+
+<main>
+	<div class="principal">
+		<form>
+			<label for="texto">Digite seu texto:</label>
+			<textarea name="" id="texto" cols="38" rows="9"></textarea>
+			<p>
+				<img src="exclamacao.svg" alt="Exclamação para atenção">
+				Apenas letras minúsculas, sem acentos e sem caracteres especiais!
+			</p>
+		</form>
+		<button class="botao" id="criptografar" onclick="criptografar()">Criptografar</button>
+		<button class="botao" id="descriptografar" onclick="descriptografar()">Descritografar</button>
+		<button class="botao" id="limpar" onclick="limpar()">Limpar</button>
+	</div>
+
+	<div class="resultado" id="resultado">
+	<div id="mensagem">
+		<img src="pessoaLupa.svg" alt="Pessoa desenhada sentada, analizando um diamante com o auxílio de uma lupa">
+		<h3>Nenhuma mensagem encontrada</h3>
+		<p>Digite o texto que você deseja criptografar ou descriptografar.</p>
+	</div>
+	</div>
+</main>
+
+<footer>
+	<p> Challenge Oracle ONE - Desenvolvido por Thalia Tainara Schwartz</p>
+</footer>
+
+<script src="main.js"></script>
+
+</body>
+</html>
