@@ -178,7 +178,25 @@ footer {
     font-size: 0.9em;
     line-height: 1.5em;
     font-weight: bold;
-    color: #0A3871;
+    color: #FFFFFF;
     text-align: center;
-    margin: 1em auto;
+    margin-top: 0.9em;
+}
+
+footer a img{
+    width: 3.5em;
+    margin-top: 0.5em;
+}
+
+.footer__container {
+  
+  align-items: center;
+  justify-content: center;
+  gap: 0.8em;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 7em;
+  width: 100%;
+  background-color:#0A3871;
 }
