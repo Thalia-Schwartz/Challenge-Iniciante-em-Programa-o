@@ -6,6 +6,7 @@
 </h1>
 
 <h2>
-    <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-student-light-skin-tone_1f468-1f3fb-200d-1f393.png" width="35">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/woman-student-medium-light-skin-tone_1f469-1f3fc-200d-1f393.png" width="35">
     Badge do Challenge
 </h2>
+
