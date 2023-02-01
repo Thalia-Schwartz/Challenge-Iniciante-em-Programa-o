@@ -1,6 +1,6 @@
  <h1 align="center">
     <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/locked-with-key_1f510.png" width="35">
-    Encriptador de texto
+    Decodificador de texto
     <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/locked-with-key_1f510.png" width="35">
 </h1>
 
